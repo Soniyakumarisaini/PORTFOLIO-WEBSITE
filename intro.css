@@ -1,0 +1,33 @@
+.intro h2{
+    margin: 14px;
+}
+.intro p{
+    margin: 13px;
+
+}
+.skill{
+    background-color: yellow;
+    width: 370px;
+    height: 12px;
+    border: 2px solid black;
+    font-weight: bold;
+}
+.skillcontainer{
+    padding: 4px;
+}
+.items{
+    display: flex;
+    align-items: center;
+}
+.hundred{
+    width: 255px;
+    height: 4px;
+}
+.fifty{
+    width: 120px;
+    background-color: aqua;
+}
+.t5{
+    width: 70px;
+    background-color: red;
+}

@@ -1,0 +1,25 @@
+.contactform{
+    font-size: 25px;
+    padding-top: 60px;
+    padding: 0 34px;
+
+}
+.contactform h1{
+    font-size: 40px;
+    /* text-align: center; */
+}
+.contactform form div{
+    padding: 10px 0;
+}
+.contactform form button{
+    font-size: 20px;
+    background-color: dodgerblue;
+    cursor: pointer;
+    padding: 5px 9px;
+    border-radius: 15px;
+    color: white;
+}
+.contactform form button:hover{
+    background-color: white;
+    color: dodgerblue;
+}

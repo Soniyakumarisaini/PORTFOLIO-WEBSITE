@@ -1,0 +1,26 @@
+THIS IS MY CV-
+
+Education:
+
+B.E in Artificial intelligence and Data science | MBM UNIVERSITY | JODHPUR               SGPA: 7.77 | 2026
+XII (RBSE) | SRRD poddar girls school | Sikar | Rajasthan                                          91% | 2020
+
+
+TECHNICAL SKILLS:
+
+C++, Python, Data Structure and Algorithm, oop(object-oriented programming )
+Data Science, Data Analytics
+HTML, CSS,Mysql
+Framework:-VS Code 
+
+SOFT SKILLS:
+
+Teamwork:
+ Describe  any experience working on group projects or collaborative  coding.
+ Fast Learner:
+Able to quickly and easily grasp new concepts or Skills,Adaptability,Ability to learn and apply new information rapidly. 
+ Curiosity and Eagerness to learn:
+Emphasise your attention to detail through clean and well-documented code.
+Communication:               
+Effective Communication skills, Both written and verbal, Essential for Discussing code and Working in a team. 
+       
